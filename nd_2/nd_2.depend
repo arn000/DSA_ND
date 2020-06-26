@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1593185208 source:c:\users\arnas\desktop\nd_2\list.c
+	<stdio.h>
+	<stdlib.h>
+	"eile.h"
+
+1593185166 c:\users\arnas\desktop\nd_2\eile.h
+
+1593185105 source:c:\users\arnas\desktop\nd_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"eile.h"
+
